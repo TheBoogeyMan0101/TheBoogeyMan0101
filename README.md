@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Harshith Cheemalakonda
 
-<!--
-**TheBoogeyMan0101/TheBoogeyMan0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Cybersecurity Researcher & Engineer** with a deep interest in **Post-Quantum Cryptography**, **Web Application Security**, and **Cloud Security**. Currently pursuing my **Master of Engineering in Cybersecurity** at the **University of Maryland**, I am working on cutting-edge research in cryptanalysis and fully homomorphic encryption.
 
-Here are some ideas to get you started:
+I love exploring the intersection of **mathematics, cryptography, and security**, and I aim to contribute to the advancement of secure computing in a post-quantum world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- **Post-Quantum Cryptography** (MinRank problem, Lattice-based cryptography)
+- **Fully Homomorphic Encryption** (lattice-based schemes)
+- **Applied Cryptography** (Attack modeling & algorithmic efficiency improvements)
+- **Web Application & Cloud Security** (Penetration testing, threat modeling, Access Control - Identity & Access Management)
+
+## 🛠 Technical Skills
+- **Languages:** Python, C/C++, C#, Javascript, SQL, Bash (Shell Scripting)
+- **Frameworks:** Flask, Django, NodeJS
+- **Mathematical Tools:** SAGE, MAGMA
+- **Security Tools:** Burp Suite, OWASP ZAP, Postman, Wireshark, Nmap,  Metasploit, Splunk Observability
+- **Cloud & Container Security:** AWS
+
+## 🎓 Education
+- **M.Eng in Cybersecurity** - University of Maryland, College Park
+- **B.Tech in Computer Science & Engineering (InfoSec)** - Vellore Institute of Technology
+
+## 📫 Let's Connect!
+🔹 [LinkedIn](https://www.linkedin.com/in/harshith-cheemalakonda/)  
+🔹 [GitHub](https://github.com/yourusername)  
+🔹 [E-mail](cheemalakondahs@protonmail.com)  
+
+⚡ *I’m currently looking for open roles in Security Engineering, Cloud Security & Penetration Testing. I am also open to collaborations in cryptography, security research, and software development!*
+
