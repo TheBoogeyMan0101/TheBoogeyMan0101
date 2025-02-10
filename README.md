@@ -24,8 +24,7 @@ I love exploring the intersection of **mathematics, cryptography, and security**
 
 ## 📫 Let's Connect!
 🔹 [LinkedIn](https://www.linkedin.com/in/harshith-cheemalakonda/)  
-🔹 [GitHub](https://github.com/yourusername)  
-🔹 [E-mail](mailto:cheemalakondahs@protonmail.com)  
+🔹 [GitHub](https://github.com/TheBoogeyMan0101)  
 
 ⚡ *I’m currently looking for open roles in Security Engineering, Cloud Security & Penetration Testing. I am also open to collaborations in cryptography, security research, and software development!*
 
