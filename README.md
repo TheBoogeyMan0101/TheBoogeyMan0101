@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Harshith Cheemalakonda
 
 ## 🚀 About Me
-I'm a **Cybersecurity Researcher & Engineer** with a deep interest in **Post-Quantum Cryptography**, **Web Application Security**, and **Cloud Security**. Currently pursuing my **Master of Engineering in Cybersecurity** at the **University of Maryland**, I am working on cutting-edge research in cryptanalysis and fully homomorphic encryption.
+I'm a **Cybersecurity Researcher & Engineer** with a deep interest in **Post-Quantum Cryptography**, **Web Application Security**, and **Cloud Security**. Currently pursuing my **Master of Engineering in Cybersecurity** at the **University of Maryland**, I am currently working on cutting-edge research in cryptanalysis of MinRank schemes and fully homomorphic encryption.
 
 I love exploring the intersection of **mathematics, cryptography, and security**, and I aim to contribute to the advancement of secure computing in a post-quantum world.
 
