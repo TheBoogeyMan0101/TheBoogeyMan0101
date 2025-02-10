@@ -23,7 +23,7 @@ I love exploring the intersection of **mathematics, cryptography, and security**
 - **B.Tech in Computer Science & Engineering (InfoSec)** - Vellore Institute of Technology
 
 ## 📫 Let's Connect!
-🔹 [LinkedIn](https://www.linkedin.com/in/harshith-cheemalakonda/)  
+🔹 [LinkedIn](https://www.linkedin.com/in/HarshithSuraag)  
 🔹 [GitHub](https://github.com/TheBoogeyMan0101)  
 
 ⚡ *I’m currently looking for open roles in Security Engineering, Cloud Security & Penetration Testing. I am also open to collaborations in cryptography, security research, and software development!*
